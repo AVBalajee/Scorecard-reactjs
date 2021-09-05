@@ -1,4 +1,4 @@
-# SCORECARD BASIC REACT JS APPLICATION
+# BASIC SCORECARD -- React JS APPLICATION
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVBalajee)
 [![Author](https://img.shields.io/badge/Author-Balajee%20A%20V-red)](https://www.linkedin.com/in/balajeevg-techclog/)
 <img src="https://github.com/AVBalajee/Scorecard-reactjs/blob/master/public/1.JPG" />
